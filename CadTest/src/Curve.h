@@ -2,9 +2,6 @@
 #include <cassert>
 #include <cmath>
 
-//TODO: constructor with reference?
-//TODO: code format
-//TODO: check Helix code
 struct Vector3
 {
 public:
